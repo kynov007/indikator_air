@@ -1,0 +1,71 @@
+name: indikator_air
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  flutter_onboarding_slider: ^1.0.8
+  flutter_screenutil: ^5.5.4
+  lottie: ^1.4.3
+  google_fonts: ^3.0.1
+  path_provider: ^2.0.11
+  permission_handler: ^10.2.0
+  pdf: ^3.8.4
+  coachmaker: ^0.2.0
+  tutorial_coach_mark: ^1.2.4
+
+
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.11.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/bg.jpg
+    - assets/cell.json
+    - assets/hp.json
+    - assets/online.json
+    - assets/kaca.json
+    - assets/moderate/Moderat-1-08.png
+    - assets/moderate/Moderat-1-09.png
+    - assets/moderate/Moderat-1-10.png
+    - assets/moderate/Moderat-1-11.png
+    - assets/moderate/Moderat-1-12.png
+    - assets/moderate/Moderat-1-13.png
+    - assets/moderate/Moderat-1-14.png
+    - assets/moderate/Moderat.png
+    - assets/sensitive/sensitiv-1-01.png
+    - assets/sensitive/sensitiv-1-02.png
+    - assets/sensitive/sensitiv-1-03.png
+    - assets/sensitive/sensitiv-1-04.png
+    - assets/sensitive/sensitiv-1-05.png
+    - assets/sensitive/sensitiv-1-06.png
+    - assets/toleran/toleran-1-15.png
+    - assets/toleran/toleran-1-16.png
+    - assets/toleran/toleran-1-17.png
+    - assets/toleran/toleran-1-18.png
+    - assets/toleran/toleran-1-19.png
+    - assets/toleran/toleran-1-20.png
+    - assets/toleran/toleran-1-21.png
+    - assets/toleran/toleran-1-22.png
+    - assets/icon/icon.png
+
+
